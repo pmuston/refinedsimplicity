@@ -9,7 +9,7 @@ tags:
 ---
 Wow! the Gatsby Tutorial was quite a rollercoaster ride!
 
-Background: Coming from being very comfortable with VueJS and APIs. BUT, having just create a few sites in double quick time using Hugo I am really impressed with this JAMstack idea. Thinking I could double down by learning Gatsby.
+Background: Coming from being very comfortable with VueJS and APIs. BUT, having just created a few sites in double quick time using Hugo I am really impressed with this JAMstack idea. I'm thinking I could double down by learning Gatsby.
 
 Diving in... https://www.gatsbyjs.org/tutorial/
 I was quite liking it before section 4 ...ok so this JSX thing works quite nicely
@@ -23,10 +23,10 @@ Seems a bit like I have hammer, so everything is a nail.
 But ok I get it - if I develop ninja hammer techniques I'm set.
 
 Section 8 (deploy) ...I can improve the Lighthouse score ...Let's look at the page
-source. SAY WHAT! What is all this? Looking further looking into public directory,
+source. SAY WHAT! What is all this? Looking further into the generated public directory,
 no nice html pages like Hugo creates... A whole heap of js files.
 This isn't a static site generator - at least not a static pages generator.
-It is more a statical served single page app generator.
+It is more a statically served single page app generator.
 I was mis-sold... Calming down...Actually
 I can see use cases where this would be an advantage.
 It is pushing more capability out to the edge.
