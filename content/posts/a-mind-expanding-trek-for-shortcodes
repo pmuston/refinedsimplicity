@@ -1,0 +1,16 @@
+---
+title: "A Mind Expanding Trek for Shortcodes"
+date: 2018-12-23T16:43:00+02:00
+draft: true
+featuredImg: ""
+tags: 
+  - gatsby
+  - markdown
+  - shortcodes
+  - unified
+  - remark
+---
+It all started with wanting a shortcode in my gatsby markdown.
+It turning into a mind expanding trek through the underlying machinery on which Gatsby is build.
+
+Background
